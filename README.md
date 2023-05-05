@@ -14,7 +14,7 @@ I'm Mechatronic engineer with more than 2 years of experience working in softwar
   - [React](https://react.dev/)
   - [Mithril](https://mithril.js.org/)
 
-## Backend 
+## Backend stack
 - [Node.js](https://nodejs.org/es/)
 - [Node.js](https://nodejs.org/es/)
 - [express.js](https://expressjs.com/es/)
@@ -22,7 +22,7 @@ I'm Mechatronic engineer with more than 2 years of experience working in softwar
 
 ## DevTools
 
-- IDE de desarrollo de tu comodidad Ej. [VS Code](https://code.visualstudio.com/download)
-- [PostMan](https://www.postman.com/downloads/) para puebas de APIS. (Opcional)
+- IDE de desarrollo [VS Code](https://code.visualstudio.com/download)
+- [PostMan](https://www.postman.com/downloads/) para pruebas de APIS.
 - [Git](https://git-scm.com/downloads) para poder gestionar las versiones.
 
